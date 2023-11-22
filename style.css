@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+.header{
+    text-align: center;
+    font-size: small;
+    margin-bottom: 8px;
+   
+
+}
+
+
+.main{
+    display: flex;
+    margin-left: 50px;
+    
+}
+
+
+.cards{
+    width: 15%;
+    height: 145px;
+    background-color: rgba(224, 224, 224, 0.548);
+    margin: 5px;
+   
+ 
+}
+
+.imge img{
+    width: 50%;
+    height: 75px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    
+ 
+}
+
+.title{
+    text-align: center;
+    font-size: 50%;
+    margin-top: 1px;
+    
+}
+
+.price{
+    text-align: center;
+    font-size: 9px;
+    font-weight: bold;
+    margin-top: 5px;
+    
+}
